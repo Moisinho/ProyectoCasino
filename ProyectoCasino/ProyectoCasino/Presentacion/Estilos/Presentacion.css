@@ -1,0 +1,84 @@
+﻿/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #000;
+    font-size: 0.95em;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 900px;
+    text-align: center;
+}
+
+/* Estilo para el encabezado con imágenes */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.left-img, .right-img {
+    width: 100px;
+    height: auto;
+    margin: 0 20px;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 10px;
+    color: #000;
+}
+
+p {
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+.members-list {
+    text-align: left;
+    font-size: 1.1em;
+}
+
+    .members-list ul {
+        padding-left: 20px;
+    }
+
+    .members-list li {
+        margin: 5px 0;
+    }
+
+/* Estilo para el botón "Iniciar" */
+.start-button {
+    display: block;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+    .start-button:hover {
+        background-color: #0056b3;
+        cursor: pointer;
+    }
+
+#button-div {
+    margin-top: 20px; /* Espacio adicional entre el contenido y el botón */
+    text-align: center; /* Centrar el botón dentro del contenedor */
+}

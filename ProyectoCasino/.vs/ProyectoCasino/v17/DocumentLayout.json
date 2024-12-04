@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|c:\\users\\mois_\\desktop\\proyectocasino (2)\\proyectocasino\\proyectocasino\\presentacion\\leaderboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|solutionrelative:proyectocasino\\presentacion\\leaderboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|c:\\users\\mois_\\desktop\\proyectocasino (2)\\proyectocasino\\proyectocasino\\presentacion\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|solutionrelative:proyectocasino\\presentacion\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|c:\\users\\mois_\\desktop\\proyectocasino (2)\\proyectocasino\\proyectocasino\\presentacion\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|solutionrelative:proyectocasino\\presentacion\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|c:\\users\\mois_\\desktop\\proyectocasino (2)\\proyectocasino\\proyectocasino\\presentacion\\js\\tragamonedas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|solutionrelative:proyectocasino\\presentacion\\js\\tragamonedas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\proyectocasino\\presentacion\\tragamonedas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84896425-E814-4478-9431-90EBDCA18231}|ProyectoCasino\\ProyectoCasino.vbproj|solutionrelative:proyectocasino\\presentacion\\tragamonedas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 380,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaderboard.aspx",
+              "DocumentMoniker": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Leaderboard.aspx",
+              "RelativeDocumentMoniker": "ProyectoCasino\\Presentacion\\Leaderboard.aspx",
+              "ToolTip": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Leaderboard.aspx",
+              "RelativeToolTip": "ProyectoCasino\\Presentacion\\Leaderboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T14:17:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Inicio.aspx",
+              "RelativeDocumentMoniker": "ProyectoCasino\\Presentacion\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Inicio.aspx",
+              "RelativeToolTip": "ProyectoCasino\\Presentacion\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T14:13:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\UserLogin.aspx",
+              "RelativeDocumentMoniker": "ProyectoCasino\\Presentacion\\UserLogin.aspx",
+              "ToolTip": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\UserLogin.aspx",
+              "RelativeToolTip": "ProyectoCasino\\Presentacion\\UserLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T14:11:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TragaMonedas.js",
+              "DocumentMoniker": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Js\\TragaMonedas.js",
+              "RelativeDocumentMoniker": "ProyectoCasino\\Presentacion\\Js\\TragaMonedas.js",
+              "ToolTip": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\Js\\TragaMonedas.js",
+              "RelativeToolTip": "ProyectoCasino\\Presentacion\\Js\\TragaMonedas.js",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAMEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "OverriddenGroupName": "ProyectoCasino\\Presentacion\\Js",
+              "WhenOpened": "2024-12-02T04:30:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TragaMonedas.aspx",
+              "DocumentMoniker": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\TragaMonedas.aspx",
+              "RelativeDocumentMoniker": "ProyectoCasino\\Presentacion\\TragaMonedas.aspx",
+              "ToolTip": "C:\\Users\\mois_\\Desktop\\ProyectoCasino (2)\\ProyectoCasino\\ProyectoCasino\\Presentacion\\TragaMonedas.aspx",
+              "RelativeToolTip": "ProyectoCasino\\Presentacion\\TragaMonedas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T08:29:29.41Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

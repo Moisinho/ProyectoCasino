@@ -1,0 +1,249 @@
+
+/* BEGIN EXTERNAL SOURCE */
+
+        body {
+            font-family: Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .banner-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+            margin-bottom: 40px;
+            gap: 30px;
+        }
+        .banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 650px;
+            height: 180px;
+            border-radius: 10px;
+            color: white;
+            padding: 15px 25px;
+            position: relative;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s;
+        }
+        .banner:hover {
+            transform: scale(1.05);
+        }
+        .banner .content {
+            max-width: 60%;
+            margin-top:auto;
+            margin-bottom:auto;
+        }
+        .banner .content .title {
+            font-family: "Playfair Display", serif;
+            font-size: 30px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); /* Sombra más pronunciada */
+            color: white;
+            background: linear-gradient(to right, #ffcc00, #ff6600); /* Gradiente cálido */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .banner .content .description {
+            font-family: "Poppins", sans-serif;
+            font-size: 18px;
+            font-weight: 300; /* Ligera para contraste */
+            color: #f0f0f0;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Sombra suave */
+            line-height: 1.5; /* Espaciado cómodo */
+        }
+        .banner img {
+            border-radius: 10px;
+        }
+        /* Ajuste del tamaño de las imágenes */
+        .roulette img, .slots img {
+            height: 120%;
+            width: auto;
+        }
+        .leaderboard img {
+            height: 100%;
+            width: auto;
+        }
+        .roulette {
+            background: linear-gradient(135deg, #43cea2, #185a9d);
+        }
+        .slots {
+            background: linear-gradient(135deg, #f45c43, #eb3349);
+        }
+        .leaderboard {
+            background: linear-gradient(135deg, #36d1dc, #5b86e5);
+        }
+    
+/* END EXTERNAL SOURCE */
+
+/* BEGIN EXTERNAL SOURCE */
+
+        body {
+            font-family: Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .banner-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+            margin-bottom: 40px;
+            gap: 30px;
+        }
+        .banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 650px;
+            height: 180px;
+            border-radius: 10px;
+            color: white;
+            padding: 15px 25px;
+            position: relative;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s;
+        }
+        .banner:hover {
+            transform: scale(1.05);
+        }
+        .banner .content {
+            max-width: 60%;
+            margin-top:auto;
+            margin-bottom:auto;
+        }
+        .banner .content .title {
+            font-family: "Playfair Display", serif;
+            font-size: 30px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); /* Sombra más pronunciada */
+            color: white;
+            background: linear-gradient(to right, #ffcc00, #ff6600); /* Gradiente cálido */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .banner .content .description {
+            font-family: "Poppins", sans-serif;
+            font-size: 18px;
+            font-weight: 300; /* Ligera para contraste */
+            color: #f0f0f0;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Sombra suave */
+            line-height: 1.5; /* Espaciado cómodo */
+        }
+        .banner img {
+            border-radius: 10px;
+        }
+        /* Ajuste del tamaño de las imágenes */
+        .roulette img, .slots img {
+            height: 120%;
+            width: auto;
+        }
+        .leaderboard img {
+            height: 100%;
+            width: auto;
+        }
+        .roulette {
+            background: linear-gradient(135deg, #43cea2, #185a9d);
+        }
+        .slots {
+            background: linear-gradient(135deg, #f45c43, #eb3349);
+        }
+        .leaderboard {
+            background: linear-gradient(135deg, #36d1dc, #5b86e5);
+        }
+    
+/* END EXTERNAL SOURCE */
+
+/* BEGIN EXTERNAL SOURCE */
+
+        body {
+            font-family: Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .banner-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+            margin-bottom: 40px;
+            gap: 30px;
+        }
+        .banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 650px;
+            height: 180px;
+            border-radius: 10px;
+            color: white;
+            padding: 15px 25px;
+            position: relative;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s;
+        }
+        .banner:hover {
+            transform: scale(1.05);
+        }
+        .banner .content {
+            max-width: 60%;
+            margin-top:auto;
+            margin-bottom:auto;
+        }
+        .banner .content .title {
+            font-family: "Playfair Display", serif;
+            font-size: 30px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7); /* Sombra más pronunciada */
+            color: white;
+            background: linear-gradient(to right, #ffcc00, #ff6600); /* Gradiente cálido */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .banner .content .description {
+            font-family: "Poppins", sans-serif;
+            font-size: 18px;
+            font-weight: 300; /* Ligera para contraste */
+            color: #f0f0f0;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Sombra suave */
+            line-height: 1.5; /* Espaciado cómodo */
+        }
+        .banner img {
+            border-radius: 10px;
+        }
+        /* Ajuste del tamaño de las imágenes */
+        .roulette img, .slots img {
+            height: 120%;
+            width: auto;
+        }
+        .leaderboard img {
+            height: 100%;
+            width: auto;
+        }
+        .roulette {
+            background: linear-gradient(135deg, #43cea2, #185a9d);
+        }
+        .slots {
+            background: linear-gradient(135deg, #f45c43, #eb3349);
+        }
+        .leaderboard {
+            background: linear-gradient(135deg, #36d1dc, #5b86e5);
+        }
+    
+/* END EXTERNAL SOURCE */

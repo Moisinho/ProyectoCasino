@@ -1,0 +1,80 @@
+﻿/* Fondo general */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #003366, #1E90FF); /* Gradiente azul */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;n
+}
+
+/* Contenedor del formulario de login */
+.login-container {
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    padding: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 300px;
+}
+
+    /* Título del login */
+    .login-container h1 {
+        margin-bottom: 20px;
+        font-size: 2em;
+        color: #1E90FF; /* Azul brillante */
+    }
+
+/* Campos de entrada */
+.form-control {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 2px solid #1E90FF; /* Bordes azules */
+    border-radius: 5px;
+    font-size: 1em;
+    background-color: #fff;
+    color: #003366;
+}
+
+    /* Efecto de enfoque en los campos */
+    .form-control:focus {
+        outline: none;
+        border: 2px solid #00BFFF; /* Azul brillante al enfocar */
+        background-color: #f0f8ff; /* Fondo muy claro */
+    }
+
+/* Botón de inicio de sesión */
+.btn {
+    background-color: #1E90FF; /* Azul brillante */
+    color: #fff; /* Blanco */
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+    .btn:hover {
+        background-color: #00BFFF; /* Variación de azul al pasar el mouse */
+    }
+
+/* Pie de página del login */
+.login-footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+    .login-footer a {
+        color: #1E90FF;
+        text-decoration: none;
+    }
+
+        .login-footer a:hover {
+            text-decoration: underline;
+        }

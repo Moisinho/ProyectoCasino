@@ -1,0 +1,76 @@
+﻿/* Fondo general */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #006400; /* Verde oscuro estilo casino */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+}
+
+/* Contenedor del formulario de login */
+.login-container {
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo semitransparente */
+    padding: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 300px;
+}
+
+    /* Título del login */
+    .login-container h1 {
+        margin-bottom: 20px;
+        font-size: 2em;
+        color: #FFD700; /* Dorado */
+    }
+
+/* Campos de entrada */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+    /* Efecto de enfoque en los campos */
+    .form-control:focus {
+        outline: 2px solid #FFD700;
+    }
+
+/* Botón de inicio de sesión */
+.btn {
+    background-color: #FFD700; /* Dorado */
+    color: #006400; /* Verde oscuro */
+    border: none;
+    padding: 10px 15px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+    .btn:hover {
+        background-color: #e5c100; /* Variación de dorado */
+    }
+
+/* Pie de página del login */
+.login-footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+    .login-footer a {
+        color: #FFD700;
+        text-decoration: none;
+    }
+
+        .login-footer a:hover {
+            text-decoration: underline;
+        }

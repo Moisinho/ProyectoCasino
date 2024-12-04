@@ -1,0 +1,203 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #006400;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px;
+}
+
+.roulette-board {
+    display: grid;
+    grid-template-columns: 50px repeat(12, 50px);
+    grid-auto-rows: 50px;
+    gap: 2px;
+    margin-top: 6rem;
+}
+
+.cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border: 2px solid #000;
+    cursor: pointer;
+    color: white;
+}
+
+    .cell.green {
+        background-color: green;
+    }
+
+    .cell.red {
+        background-color: red;
+    }
+
+    .cell.black {
+        background-color: rgb(35, 32, 32);
+    }
+
+    .cell.selected {
+        outline: 2px solid yellow;
+        color: yellow;
+    }
+
+    .cell.betting-area {
+        background-color: #695b5b;
+    }
+
+    .cell.text {
+        grid-column: span 4;
+        background-color: #006400;
+        font-size: 16px;
+        border: none;
+        cursor: default;
+    }
+
+.row-label {
+    background-color: green;
+    font-size: 16px;
+}
+
+.cell:hover {
+    outline: 2px solid yellow;
+}
+
+.ruleta-container {
+    text-align: center;
+    margin: 1rem
+}
+
+.ruleta {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+}
+
+canvas {
+    border: 10px solid #333;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.flecha {
+    position: absolute;
+    bottom: -18px;
+    left: 52%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 40px;
+    background: #ffffff;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    z-index: 10;
+}
+
+button#girar {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.mensaje {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+}
+
+.numeros-container {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-top: 6rem;
+    margin-right: 5px;
+}
+
+.numeros-section {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+    width: 45%;
+}
+
+    .numeros-section h3 {
+        text-align: center;
+        color: yellow;
+    }
+
+
+.navbar {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+    .nav-links li {
+        margin: 0 15px;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        transition: color 0.3s;
+    }
+
+        .nav-links a:hover {
+            color: #00bfff;
+        }
+
+.logout-form {
+    margin: 0;
+}
+
+.logout-button {
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+    .logout-button:hover {
+        background-color: #cc0000;
+    }
+
+h1 {
+    padding-top: 50px;
+}
